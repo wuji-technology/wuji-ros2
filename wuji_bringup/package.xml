@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>wuji_bringup</name>
-  <version>2026.10.26</version>
+  <version>2026.11.9</version>
   <description>Launch integration for Wuji ROS 2 drivers and robot descriptions.</description>
   <maintainer email="support@wuji.tech">Wuji Technology</maintainer>
   <license>MIT</license>
@@ -23,6 +23,7 @@
   <exec_depend>wuji_hand2_2_description</exec_depend>
   <exec_depend>wuji_hand2_driver</exec_depend>
   <exec_depend>wuji_glove_driver</exec_depend>
+  <exec_depend>wuji_tools</exec_depend>
 
   <test_depend>ament_cmake_pytest</test_depend>
   <test_depend>ament_index_python</test_depend>
