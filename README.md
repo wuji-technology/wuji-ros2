@@ -140,7 +140,7 @@ ros2 run wuji_bringup glove_status_demo --ros-args \
 | [`wuji_tools`](wuji_tools/README.md) | Provides the `wuji_list` device scanner |
 | [`wuji_bringup`](wuji_bringup/README.md) | Starts Wuji Hand 2 or Wuji Glove drivers and installs status and wave Demos |
 
-See the [Wuji Hand 2 driver interfaces](wuji_hand2_driver/README.md) and [Wuji Glove driver interfaces](wuji_glove_driver/README.md) for topics, parameters, lifecycle behavior, and hardware tests. See the [Wuji SDK reference](https://docs.wuji.tech/docs/wuji-hand/latest/sdk-reference/) for the underlying device API.
+See the [Wuji Hand 2 driver interfaces](wuji_hand2_driver/README.md) and [Wuji Glove driver interfaces](wuji_glove_driver/README.md) for topics, parameters, lifecycle behavior, and hardware tests. See the [Wuji SDK reference](https://docs.wuji.tech/docs/en/wuji-hand/latest/sdk-reference) for the underlying device API.
 
 ## Troubleshooting
 

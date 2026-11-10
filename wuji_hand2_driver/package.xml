@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>wuji_hand2_driver</name>
-  <version>2026.10.26</version>
+  <version>2026.11.9</version>
   <description>ROS 2 driver for Wuji Hand 2.</description>
   <maintainer email="support@wuji.tech">Wuji Technology</maintainer>
   <license>MIT</license>
